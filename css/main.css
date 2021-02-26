@@ -208,12 +208,17 @@ div#hino h2{
   margin-top: 0px;
 }
 
-div#bandeira p {
+div#hino p {
  font-family: arial, sans-serif;
  text-align: left;
  margin-left: 4%;
  font-size: 15pt;
  z-index: 10;
+}
+
+div#hino audio {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
