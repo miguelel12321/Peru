@@ -200,6 +200,22 @@ div#paisagens img{
   margin-right: -40px;
 }
 
+div#hino h2{
+  font-family: Franklin;
+  font-size: 25pt;
+  text-align: left;
+  margin-left: 1.5%;
+  margin-top: 0px;
+}
+
+div#bandeira p {
+ font-family: arial, sans-serif;
+ text-align: left;
+ margin-left: 4%;
+ font-size: 15pt;
+ z-index: 10;
+}
+
 footer {
   font-family: monospace, sans-serif;
   text-align: center;
